@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\natal\\OneDrive\\Escritorio\\ArchivoGIT\\MantenedorEstudiante\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39B84468-8B1C-4A66-A2A5-61BFCF6DA0AC}|MantenedorEstudiantes\\MantenedorEstudiantes.csproj|c:\\users\\natal\\onedrive\\escritorio\\archivogit\\mantenedorestudiante\\mantenedorestudiantes\\vistas\\crearestudiante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B84468-8B1C-4A66-A2A5-61BFCF6DA0AC}|MantenedorEstudiantes\\MantenedorEstudiantes.csproj|solutionrelative:mantenedorestudiantes\\vistas\\crearestudiante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B84468-8B1C-4A66-A2A5-61BFCF6DA0AC}|MantenedorEstudiantes\\MantenedorEstudiantes.csproj|c:\\users\\natal\\onedrive\\escritorio\\archivogit\\mantenedorestudiante\\mantenedorestudiantes\\vistas\\crearestudiante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{39B84468-8B1C-4A66-A2A5-61BFCF6DA0AC}|MantenedorEstudiantes\\MantenedorEstudiantes.csproj|solutionrelative:mantenedorestudiantes\\vistas\\crearestudiante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39B84468-8B1C-4A66-A2A5-61BFCF6DA0AC}|MantenedorEstudiantes\\MantenedorEstudiantes.csproj|c:\\users\\natal\\onedrive\\escritorio\\archivogit\\mantenedorestudiante\\mantenedorestudiantes\\vistas\\listaestudiantes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39B84468-8B1C-4A66-A2A5-61BFCF6DA0AC}|MantenedorEstudiantes\\MantenedorEstudiantes.csproj|solutionrelative:mantenedorestudiantes\\vistas\\listaestudiantes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CrearEstudiante.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Escritorio\\ArchivoGIT\\MantenedorEstudiante\\MantenedorEstudiantes\\Vistas\\CrearEstudiante.xaml.cs",
+              "RelativeDocumentMoniker": "MantenedorEstudiantes\\Vistas\\CrearEstudiante.xaml.cs",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Escritorio\\ArchivoGIT\\MantenedorEstudiante\\MantenedorEstudiantes\\Vistas\\CrearEstudiante.xaml.cs",
+              "RelativeToolTip": "MantenedorEstudiantes\\Vistas\\CrearEstudiante.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T05:19:34.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearEstudiante.xaml",
+              "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Escritorio\\ArchivoGIT\\MantenedorEstudiante\\MantenedorEstudiantes\\Vistas\\CrearEstudiante.xaml",
+              "RelativeDocumentMoniker": "MantenedorEstudiantes\\Vistas\\CrearEstudiante.xaml",
+              "ToolTip": "C:\\Users\\natal\\OneDrive\\Escritorio\\ArchivoGIT\\MantenedorEstudiante\\MantenedorEstudiantes\\Vistas\\CrearEstudiante.xaml",
+              "RelativeToolTip": "MantenedorEstudiantes\\Vistas\\CrearEstudiante.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T05:19:18.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ListaEstudiantes.xaml.cs",
               "DocumentMoniker": "C:\\Users\\natal\\OneDrive\\Escritorio\\ArchivoGIT\\MantenedorEstudiante\\MantenedorEstudiantes\\Vistas\\ListaEstudiantes.xaml.cs",
               "RelativeDocumentMoniker": "MantenedorEstudiantes\\Vistas\\ListaEstudiantes.xaml.cs",
